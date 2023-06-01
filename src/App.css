@@ -1,0 +1,23 @@
+.table{
+  min-width: 100%;
+  border: 1px solid black;
+}
+
+.box{
+    width: 25%;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.toggle{
+  text-align:center
+}
+
+.post{
+  padding: 25px;
+  text-align:center;
+}
+
+.error{
+  color: red;
+}
